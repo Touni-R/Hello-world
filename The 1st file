@@ -1,1 +1,16 @@
 My frist file.
+
+
+September relearn git
+
+Updates about the hosts file :
+  CDM -> ping guthub.con --> get IP Add (exp. [20.205.243.166]）
+
+  [Win]+R notpad --> Open: C:\Windows\System32\drivers\etc  hosts
+  Append to the last line : [IP] github.com    --> save
+  
+  Refresh cache
+  CMD -> ipconfig/flushdns
+
+END
+  
